@@ -1,5 +1,20 @@
 {
-    "minVersion": "0.4"
-    "class": "DepictionTabView",
-    "headerImage": "https://raw.githubusercontent.com/MarkPLacer/hook/main/header.png"
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "headerImage": "https://raw.githubusercontent.com/MarkPLacer/hook/main/banner.png",
+  "tintColor": "#6264D3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Example page",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "This is an example "
+        },
+        // ... more views can be added here.
+      ],
+        // ... more pages can be added here.
+    }
+  ]
 }
