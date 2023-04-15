@@ -10,7 +10,11 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "Hook, a tweak that hooks SBIconController to display UIAlertController"
+          "title": "Hook"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "A tweak that hooks SBIconController to display UIAlertController"
         }
       ]
     },
