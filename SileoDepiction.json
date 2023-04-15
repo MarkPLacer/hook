@@ -26,7 +26,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "0.0.01"
+          "markdown": "1.0.0"
         },
         {
           "class": "DepictionSubheaderView",
@@ -42,7 +42,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "2023-04-15"
+          "markdown": "2023-04-14"
         },
         {
           "class": "DepictionSubheaderView",
