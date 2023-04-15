@@ -18,11 +18,14 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**Information**"
+          "markdown": "<div style='font-weight: bold; font-size: 17px;'>Information</div>"
+        },
+        {
+          "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**Version:** 1.0.0\n\n**Size:** 100 KB\n\n**Updated:** 2023-04-14\n\n**iOS Versions:** iOS 15"
+          "markdown": "<div style='display: flex; justify-content: space-between;'><div><b>Version:</b> 1.0.0</div><div><b>Size:</b> 100 KB</div></div><div style='display: flex; justify-content: space-between;'><div><b>Updated:</b> 2023-04-14</div><div><b>iOS Versions:</b> iOS 15</div></div>"
         }
       ]
     },
