@@ -11,17 +11,22 @@
         {
           "class": "DepictionHeaderView",
           "title": "Hook, a tweak that hooks SBIconController to display UIAlertController"
-        },
-      ],
-      
+        }
+      ]
+    },
+    {
       "class": "DepictionStackView",
       "tabname": "Changelog",
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "This is an example "
+          "title": "Changelog"
         },
-      ],
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "This is an example"
+        }
+      ]
     }
   ]
 }
