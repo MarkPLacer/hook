@@ -17,40 +17,12 @@
           "markdown": "A tweak that hooks SBIconController to display UIAlertController."
         },
         {
-          "class": "DepictionSubheaderView",
-          "title": "Information"
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Version:"
+          "class": "DepictionMarkdownView",
+          "markdown": "**Information**"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "1.0.0"
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Size:"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "100 KB"
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Updated:"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "2023-04-14"
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "iOS Versions:"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "iOS 15"
+          "markdown": "**Version:** 1.0.0\n\n**Size:** 100 KB\n\n**Updated:** 2023-04-14\n\n**iOS Versions:** iOS 15"
         }
       ]
     },
