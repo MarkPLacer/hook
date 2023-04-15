@@ -6,7 +6,7 @@
   "tabs": [
     {
       "class": "DepictionStackView",
-      "tabname": "Example page",
+      "tabname": "Details",
       "views": [
         {
           "class": "DepictionHeaderView",
