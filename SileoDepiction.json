@@ -10,6 +10,15 @@
       "views": [
         {
           "class": "DepictionHeaderView",
+          "title": "Hook, a tweak that hooks SBIconController to display UIAlertController"
+        },
+      ],
+      
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
           "title": "This is an example "
         },
       ],
