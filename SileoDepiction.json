@@ -14,7 +14,6 @@
         },
       ],
       
-      "class": "DepictionStackView",
       "tabname": "Changelog",
       "views": [
         {
