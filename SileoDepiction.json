@@ -51,7 +51,19 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "This is an example"
+          "title": "v1.0.0"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "This is an example"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "v0.0.1"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Initial beta release"
         }
       ]
     }
