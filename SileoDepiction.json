@@ -21,20 +21,36 @@
           "title": "Information"
         },
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "Version: 0.0.1"
+          "class": "DepictionSubheaderView",
+          "title": "Version:"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Size: 100 KB"
+          "markdown": "0.0.01"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Size:"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Updated: 2023-04-15"
+          "markdown": "100 KB"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Updated:"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "iOS Versions: iOS 15"
+          "markdown": "2023-04-15"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "iOS Versions:"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "iOS 15"
         }
       ]
     },
