@@ -26,17 +26,17 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.0.0"
+          "text": "0.0.1"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Size",
-          "text": "100 KB"
+          "text": "8 KB"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Updated",
-          "text": "2023-04-14"
+          "text": "2023-04-15"
         },
         {
           "class": "DepictionTableTextView",
@@ -51,11 +51,11 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "v1.0.0"
+          "title": "Upcoming v1.0.0"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "This is an example"
+          "markdown": "Unreleased"
         },
         {
           "class": "DepictionHeaderView",
@@ -63,7 +63,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Initial beta release"
+          "markdown": "Initial alpha release. Works pefectly for now"
         }
       ]
     }
