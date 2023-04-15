@@ -51,7 +51,7 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "Upcoming v1.0.0"
+          "title": "Upcoming - v1.0.0"
         },
         {
           "class": "DepictionMarkdownView",
