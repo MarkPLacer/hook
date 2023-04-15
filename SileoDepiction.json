@@ -14,7 +14,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "A tweak that hooks SBIconController to display UIAlertController"
+          "markdown": "A tweak that hooks SBIconController to display UIAlertController."
         }
       ]
     },
@@ -24,11 +24,7 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "Changelog"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "This is an example"
+          "title": "This is an example"
         }
       ]
     }
