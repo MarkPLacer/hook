@@ -14,7 +14,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "A tweak that hooks SBIconController to display UIAlertController."
+          "markdown": "A tweak that hooks UIApplication to display UIAlertController."
         },
         {
           "class": "DepictionHeaderView",
